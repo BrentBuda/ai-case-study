@@ -1,1 +1,1 @@
-# ai-case-study
+# AI and the Future of Streaming Services
