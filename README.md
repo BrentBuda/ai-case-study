@@ -43,6 +43,8 @@ Netflix is evolving and growing, there plently to stream and share with the fami
 Netflix uses AI, Data science and ML. Still uses a vareity of technologies in its front end. JavaScript, along with libearies and framworks like AI.
 Netflix services is popular worwide that uses cutting-edge technology like AI and ML to provide consumers with more appropriate and intuitive suggestions.
 
+### Articles
+
 
 
 
