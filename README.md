@@ -14,4 +14,10 @@ Netflix makes money from the following sources: subscripitions, importatn partne
  
  "It’s a major problem for Netflix there’s no immediate answer. They have work to do to re-create the image of Netflix." - https://www.quora.com/What-separates-Netflix-from-its-competitors
 
- 
+ Netflix strides to make modern future, robust, and developer-friendly languages: For Android and Swift for IOS. "Netflix’s tech stack is a testament to its commitment to delivering the best possible service to its users. It is a fascinating blend of tried-and-true technologies and cutting-edge innovations, all working together to support the massive scale of its operations." - https://medium.com/bytebytego-system-design-alliance/decoding-netflix-an-in-depth-look-at-the-tech-stack-powering-the-streaming-giant-b0e3c0931ec5#:~:text=Netflix%20uses%20Spring%20Boot%20to,independently%20based%20on%20its%20needs.
+![Netflixtechstack](https://github.com/BrentBuda/ai-case-study/assets/56571802/b0b1f05d-601c-4ed4-88be-36c4b16c2300)
+# Mobile Tech Stack: Kotlin and Swift
+This plays crucial role for smooth and efficient user experience.
+
+# React: Building interactive UIs
+Which is a popular JavaScripts that deleveloped by Facebook, is vital to Netflix's front end.
