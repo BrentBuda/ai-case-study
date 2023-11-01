@@ -34,4 +34,9 @@ Since Netflix is a memeber of the gorup of tech companies - Facebook, Apple, Ama
 ### Netlfix Succesful 
 "In essence, Netflix’s success is due to the brand’s ability to evolve and the speed at which it does so. It’s this ability to pivot that has enabled its marketing strategy to change and move away from long-held beliefs such as ‘ad spending not resulting in more viewers’." - https://digitalmarketinginstitute.com/blog/the-unstoppable-success-of-netflix#:~:text=What%20makes%20Netflix%20so%20successful,not%20resulting%20in%20more%20viewers'.
 Netflix uses main metric of variation on viewing hours called "Valued hours" It the what percentage of someone total viewing that represents.
+![us-svod-mau-market-share](https://github.com/BrentBuda/ai-case-study/assets/56571802/23820a1a-aeff-44cd-920b-7585c03a9c73)
+
+Competition remained strong with six different apps and each seeing more then 10 percent of market share https://sensortower.com/blog/svod-app-market-share-q1-2022
+
+
 
