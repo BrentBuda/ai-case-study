@@ -40,6 +40,9 @@ Competition remained strong with six different apps and each seeing more then 10
 
 ### Lose the cable, Netflix is the future
 Netflix is evolving and growing, there plently to stream and share with the family and friends. They have such great offers with a low of $9.99 a month(Increase the montly cost) Don't use cable or other streaming platform just use Netflix on your smart T.v or devices.
+Netflix uses AI, Data science and ML. Still uses a vareity of technologies in its front end. JavaScript, along with libearies and framworks like AI.
+Netflix services is popular worwide that uses cutting-edge technology like AI and ML to provide consumers with more appropriate and intuitive suggestions.
+
 
 
 
