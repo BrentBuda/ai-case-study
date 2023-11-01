@@ -38,5 +38,9 @@ Netflix uses main metric of variation on viewing hours called "Valued hours" It 
 
 Competition remained strong with six different apps and each seeing more then 10 percent of market share https://sensortower.com/blog/svod-app-market-share-q1-2022
 
+### Lose the cable, Netflix is the future
+Netflix is evolving and growing, there plently to stream and share with the family and friends. They have such great offers with a low of $9.99 a month(Increase the montly cost) Don't use cable or other streaming platform just use Netflix on your smart T.v or devices.
+
+
 
 
