@@ -43,8 +43,34 @@ Netflix is evolving and growing, there plently to stream and share with the fami
 Netflix uses AI, Data science and ML. Still uses a vareity of technologies in its front end. JavaScript, along with libearies and framworks like AI.
 Netflix services is popular worwide that uses cutting-edge technology like AI and ML to provide consumers with more appropriate and intuitive suggestions.
 
-### Articles
+### Articles/Blogs
+* https://study.com/academy/lesson/netflix-history-founding-facts-created.html#:~:text=Netflix%20was%20founded%20in%201997,online%20streaming%20of%20its%20content
 
+* https://www.thestreet.com/investing/netflix-still-has-a-big-and-difficult-problem-to-solve
+
+* https://about.netflix.com/en/newsroom
+
+* https://www.vdocipher.com/blog/2017/06/netflix-revolution-part-1-history/#:~:text=Netflix%20was%20founded%20in%201997,to%20receive%20DVDs%20by%20mail.
+
+* https://www.vplayed.com/blog/how-does-netflix-make-money/#:~:text=Netflix%20makes%20money%20from%20the,basic%2C%20standard%2C%20and%20premium.
+
+* https://netflixtechblog.com/
+
+* https://netflixtechblog.com/tagged/machine-learning
+
+* https://www.edrawmind.com/article/netflix-segmentation-targeting-and-positioning.html#:~:text=Targeting%20of%20Netflix&text=Netflix's%20target%20clients%20are%20young,a%20variety%20of%20cultural%20backgrounds.
+
+* https://www.quora.com/What-separates-Netflix-from-its-competitors
+
+* https://medium.com/bytebytego-system-design-alliance/decoding-netflix-an-in-depth-look-at-the-tech-stack-powering-the-streaming-giant-b0e3c0931ec5#:~:text=Netflix%20uses%20Spring%20Boot%20to,independently%20based%20on%20its%20needs.
+
+* https://sensortower.com/blog/svod-app-market-share-q1-2022
+
+* https://digitalmarketinginstitute.com/blog/the-unstoppable-success-of-netflix#:~:text=What%20makes%20Netflix%20so%20successful,not%20resulting%20in%20more%20viewers'.
+
+  ### Video
+
+  * https://www.youtube.com/watch?v=mWz9q1hC2_w&ab_channel=NewYorkTimesEvents
 
 
 
