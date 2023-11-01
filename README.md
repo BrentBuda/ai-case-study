@@ -24,3 +24,10 @@ It is the IOS font, Netflix uses Swift, a powerful and intuitive language develo
 
 # React: Building interactive UIs
 Which is a popular JavaScripts that deleveloped by Facebook, is vital to Netflix's front end.Its the main reason Netlif chose React is its virtaul DOM (Document Object Model) feature. Allows react to make minimal updates to the actual DOM, resulting in a smoother and faster user experience.
+### Netlfix is Changing the Tv industry
+"It has certainly accelerated the trend towards cord-cutting. In Q1 2023, with the largest pay TV providers in the U.S. lost a record-high of about 2,215,000 net video subscribers, compared to a loss of about 1,850,000 in Q1 2022." - https://www.investopedia.com/articles/investing/060815/how-netflix-changing-tv-industry.asp
+Netflix was a success may lead to the unbundling of cable. Most cable customers may be allowed to pick and choose channels rather than pay for a whoke batch to get what they want.
+Since Netflix is a memeber of the gorup of tech companies - Facebook, Apple, Amazon, and Google these are the biggest tech in the world.
+
+![images](https://github.com/BrentBuda/ai-case-study/assets/56571802/a6a1a17c-ff13-449b-9bf6-bcfe2f61eda4)
+
