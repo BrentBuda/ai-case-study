@@ -72,6 +72,13 @@ Netflix services is popular worwide that uses cutting-edge technology like AI an
 
   * https://www.youtube.com/watch?v=mWz9q1hC2_w&ab_channel=NewYorkTimesEvents
 
+  ### Images
+  * https://miro.medium.com/v2/resize:fit:1100/format:webp/1*ll-DU2TEJag7GlpZ1B1QUQ.png
+ 
+  * https://businessmodelanalyst.com/wp-content/uploads/2023/05/Netflix-Competitors-1024x576.webp
+ 
+  * https://images.ctfassets.net/vfkpgemp7ek3/3Il5Dq5UtDRMUSHCthaxFV/a09b0a6906893f81fdc26542e12abdbc/us-svod-mau-market-share.jpeg?w=960
+
 
 
 
